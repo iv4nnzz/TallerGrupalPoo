@@ -1,5 +1,5 @@
 package modelo;
-
+//commit
 import javax.swing.JOptionPane;
 
 public class GestorNotas {
@@ -134,4 +134,5 @@ public class GestorNotas {
         contarNotasAprobadas();
         mostrarResultado();
     }
+
 }
