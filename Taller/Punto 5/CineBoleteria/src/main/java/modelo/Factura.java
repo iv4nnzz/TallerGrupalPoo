@@ -1,5 +1,5 @@
 package modelo;
-
+//commit
 public class Factura {
     private String nombrePromotora;
     private String tipoFuncion;
@@ -96,4 +96,5 @@ public class Factura {
                "\nTotal a Pagar: $" + totalPagar +
                "\n============================";
     }
+
 }
