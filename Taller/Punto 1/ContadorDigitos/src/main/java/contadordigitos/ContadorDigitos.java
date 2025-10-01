@@ -1,5 +1,5 @@
 package contadordigitos;
-
+//
 public class ContadorDigitos {
     private int numero;
     
